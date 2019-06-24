@@ -1,2 +1,2 @@
 # Black-Friday
-Black Friday is a Hackathon conducted in Analytics Vidya
+Black Friday is a Hackathon conducted by Analytics Vidya.
